@@ -48,7 +48,11 @@
 				"outputs": [
 					{
 						"referenceName": "Parquet1",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"folder": "testesql",
+							"fileName": "table.parquet"
+						}
 					}
 				]
 			}

@@ -1,0 +1,9 @@
+{
+	"name": "dtf-nicoteste",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26887e62-8677-4e9a-9745-1860bbefd70e",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
